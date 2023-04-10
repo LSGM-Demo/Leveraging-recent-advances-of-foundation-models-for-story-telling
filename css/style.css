@@ -135,7 +135,7 @@ blockquote {
 	min-height: 100%;
 	width: 100%;
 }
-.banner:after {
+/* .banner:after {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -143,11 +143,11 @@ blockquote {
 	bottom: 0;
 	background-color: rgba(74, 4, 38, 0.53);
 	content: "";
-}
+} */
 .banner-caption {
 	position: absolute;
-	top: 50%;
-	right: 25%;
+	top: 70%;
+	right: 30%;
 	width: 100%;
 	z-index: 2;
 }
@@ -911,11 +911,11 @@ border-radius: 50%;
    }
 }
 
-.video iframe {
+/* .video iframe {
 	max-width: 100%;
 	max-height: 100%;
 
-}
+} */
 
 /* .video.stuck {
 	position: fixed;
