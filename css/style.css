@@ -47,7 +47,7 @@ h3 {
 }
 h4 {
 	font-size: 18px;
-	font-weight: 700;
+	/* font-weight: 700; */
 }
 h5 {
 	font-size: 16px;
@@ -740,6 +740,7 @@ padding: 10px 0;
 
 /* block-lists
 ---------------------------------- */
+
 .block-list .media-left {
 	width: 60px;
 }
