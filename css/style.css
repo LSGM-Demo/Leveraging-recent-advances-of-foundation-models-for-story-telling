@@ -20,7 +20,7 @@ body {
 	font-size: 15px;
 	line-height: 1.50;
 	color: #333333;
-	background-color: #ffffff;
+	background-color: rgba(18, 28, 7, 1);
 	/* background-image: url('../images/HomePageBGImage.png');
 	background-repeat:no-repeat; */
 	position: relative;
@@ -31,7 +31,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: #333333;
+	color: #ffffff;
 }
 h1 { /* title */
 	font-size: 38px;
@@ -677,7 +677,7 @@ padding: 10px 0;
 /* Fixed Header
 ----------------------------------------------------------------------------- */
 .fixed-header-on .header {
-	background-color: rgba(18, 28, 7, 0.95);
+	background-color: rgba(18, 28, 7, 0.80);
 	padding: 5px 0;
 }
 .fixed-header-on .brand {
