@@ -249,6 +249,9 @@ border:0px;
 	width: 100%;
 	height: 100%;
 	background-color: #e5e79e; 
+	/* background: linear-gradient(#e5e79e, 85%, rgba(18, 28, 7, 1)); */
+	border: 0;
+
 	
 	/* d0d382 */
 }
