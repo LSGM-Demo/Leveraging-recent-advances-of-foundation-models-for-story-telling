@@ -147,6 +147,7 @@ blockquote {
 	min-height: 100%;
 	min-width: 100%;
 	width: 100%;
+	padding-top: 50%;
 }
 /* .banner:after {
 	position: absolute;
@@ -353,7 +354,7 @@ color: #949494;
 }
 .hero-caption{
 text-align:center;
-padding:40px 0;
+/* padding:40px 0; */
 }
 .hero-caption h2{
 text-align:center;
