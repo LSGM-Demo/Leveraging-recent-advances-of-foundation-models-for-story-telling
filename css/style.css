@@ -180,7 +180,7 @@ color: #d59e1d;
 /* Backgrounds
 ----------------------------------------------------------------------------- */
 .default-bg {
-	background-color: #222222;
+	background-color: rgba(18, 28, 7, 1);
 	color: #ffffff;
 }
 .default-bg.blue {
@@ -591,9 +591,13 @@ padding: 10px 0;
 #quote-carousel .carousel-indicators 
 {
   right: 50%;
-  top: auto;
+  top: 93%;
   bottom: 0px;
   margin-right: -19px;
+}
+#video-carousel .carousel-indicators 
+{
+  top: 100px;
 }
 /* Changes the color of the indicators */
 #quote-carousel .carousel-indicators li 
@@ -606,8 +610,11 @@ padding: 10px 0;
 }
 #quote-carousel img
 {
-  width: 250px;
-  height: 100px
+  /* width: 250px;
+  height: 100px */
+  width: 100%;
+  /* box-shadow: 8px 8px 5px white; */
+  text-align: center;
 }
 /* End carousel */
 
@@ -843,10 +850,7 @@ border-radius: 50%;
 	float: none;
 }
 .isotope-container {
-	/* overflow: hidden; */
-	overflow: auto;
-	display:grid;
-	flex-wrap: wrap;
+	overflow: hidden;
 }
 .isotope-item {
 	margin-bottom: 20px;

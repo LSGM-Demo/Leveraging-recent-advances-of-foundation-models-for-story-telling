@@ -52,8 +52,12 @@
 		
 	   $('#quote-carousel').carousel({
 		 pause: true,
-		 interval: 4000,
+		 interval: 5000,
 	   });
+	   $('#video-carousel').carousel({
+		pause: true,
+		interval: false,
+	  });
 		//Scroll Spy
 		//-----------------------------------------------
 		if($(".scrollspy").length>0) {
