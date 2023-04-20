@@ -167,7 +167,7 @@ blockquote {
 }
 .subfooter {
 	background-color: #e5e79e;
-	padding: 40px 0;
+	padding: 10px 0;
 }
 .subfooter a {
 color: #d59e1d;
@@ -595,9 +595,22 @@ padding: 10px 0;
   bottom: 0px;
   margin-right: -19px;
 }
+
 #video-carousel .carousel-indicators 
 {
-  top: 100px;
+  display: none;
+}
+#video-carousel2 .carousel-indicators 
+{
+  display: none;
+}
+#video-carousel3 .carousel-indicators 
+{
+  display: none;
+}
+#video-carousel4 .carousel-indicators 
+{
+  display: none;
 }
 /* Changes the color of the indicators */
 #quote-carousel .carousel-indicators li 

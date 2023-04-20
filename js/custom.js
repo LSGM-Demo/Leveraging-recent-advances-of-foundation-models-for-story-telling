@@ -57,7 +57,19 @@
 	   $('#video-carousel').carousel({
 		pause: true,
 		interval: false,
-	  });
+	   });
+	   $('#video-carousel2').carousel({
+		pause: true,
+		interval: false,
+	   });
+	   $('#video-carousel3').carousel({
+		pause: true,
+		interval: false,
+	   });
+	   $('#video-carousel4').carousel({
+		pause: true,
+		interval: false,
+	   });
 		//Scroll Spy
 		//-----------------------------------------------
 		if($(".scrollspy").length>0) {
