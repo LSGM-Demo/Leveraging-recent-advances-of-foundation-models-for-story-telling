@@ -269,6 +269,8 @@ border:0px;
 .bg-image-2 {
 }
 .caption-data {position: absolute; top: 50%; left: 50%; z-index: 20; text-align: center; -webkit-transform: translate(-50%,-50%); -moz-transform: translate(-50%,-50%); transform: translate(-50%,-50%);}
+.caption-data2 {position: absolute; top: 150%; left: 65%; z-index: 20; margin-right: 0px; -webkit-transform: translate(-50%,-50%); -moz-transform: translate(-50%,-50%); transform: translate(-50%,-50%);}
+
 .caption-data h1 {text-transform: uppercase;}
 .caption-data h1 span {font-size: inherit; line-height: inherit; font-weight: inherit;}
 .caption-data h3{line-height:34px;}
@@ -594,6 +596,10 @@ padding: 10px 0;
   top: 93%;
   bottom: 0px;
   margin-right: -19px;
+}
+
+#video-carousel4 .carousel-inner{
+	text-align: center;
 }
 
 #video-carousel .carousel-indicators 
