@@ -531,7 +531,8 @@ padding: 10px 0;
  
 @media (min-width:1200px) {
 	.modal-lg {
-		width: 1140px;
+		/* width: 1140px; */
+		width: 1300px;
 	}
 }
 
