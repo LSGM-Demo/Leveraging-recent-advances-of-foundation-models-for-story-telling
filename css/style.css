@@ -1031,6 +1031,10 @@ border-radius: 50%;
 		margin: 0 auto;
 	}
 
+	section#gap-session {
+		padding-bottom: 0px;
+	}
+
 	.demo{
 		width: 100%;
 		height: auto;
@@ -1079,6 +1083,11 @@ border-radius: 50%;
 		transform: scale(0.8) translateY(-1000px) translateX(-120px);
 		margin: 0 auto;
 	}
+	
+	section#gap-session {
+		padding-bottom: 0px;
+	}
+	
 
 	.demo{
 		width: 100%;
@@ -1135,6 +1144,9 @@ border-radius: 50%;
 		/* width: fit-content; */
 		transform: scale(0.5) translateY(-1000px) translateX(-120px);
 		margin: 0 auto;
+	}
+	.section#gap-session {
+		padding-bottom: 0px;
 	}
 
 	.demo{
