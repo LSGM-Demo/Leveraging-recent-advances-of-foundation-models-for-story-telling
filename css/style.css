@@ -1049,15 +1049,27 @@ border-radius: 50%;
 	.media-left {
 		display: none;
 	}
-	#body1 {padding-left: 0;display: flexbox;transform: translateX(-6%);}
+	#body1 {padding-left: 0;display: flexbox;transform: translateX(-4%);}
 	#body2 {padding-left: 0;display: flexbox;transform: translateX(-4%);}
+	#body3 {padding-left: 0;display: flexbox;transform: translateX(-3%);}
+	#body4 {padding-left: 0;display: flexbox;transform: translateX(-3%);}
+	#body5 {padding-left: 0;display: flexbox;transform: translateX(-5%);}
+	#body6 {padding-left: 0;display: flexbox;transform: translateX(0%);}
 	#subT {
 		display: inline;
 		margin: 0 auto;
 	}
+	
 	#bodytext {
 		text-align: left; padding-left: 0px;
 	}
+
+	#Plogo1 {padding-left: 0px; width: 330px; margin: 0 auto; transform: translateX(13.5%) translateY(-30%);}
+	#Plogo2 {padding-left: 0px; width: 360px; margin: 0 auto; transform: translateX(12%) translateY(-30%);}
+	#Plogo3 {padding-left: 0px; width: 360px; margin: 0 auto; transform: translateX(12%) translateY(-30%);}
+	#Plogo4 {padding-left: 0px; width: 380px; margin: 0 auto; transform: translateX(10%) translateY(-14%);}
+	#Plogo5 {padding-left: 0px; width: 380px; margin: 0 auto; transform: translateX(11%) translateY(-14%);}
+	#Plogo6 {padding-left: 0px; width: 300px; margin: 0 auto; transform: translateX(18%) translateY(-30%);}
 
 	#block-video{
 		width: 90%;
@@ -1116,11 +1128,27 @@ border-radius: 50%;
 	.media-left{
 		display: none;
 	}
-	#body1 {
-		padding-left: 0;
-		display: flexbox;
-		transform: translateX(-6%);
+	#body1 {padding-left: 0;display: flexbox;transform: translateX(-4%);}
+	#body2 {padding-left: 0;display: flexbox;transform: translateX(-4%);}
+	#body3 {padding-left: 0;display: flexbox;transform: translateX(-3%);}
+	#body4 {padding-left: 0;display: flexbox;transform: translateX(-3%);}
+	#body5 {padding-left: 0;display: flexbox;transform: translateX(-5%);}
+	#body6 {padding-left: 0;display: flexbox;transform: translateX(0%);}
+	#subT {
+		display: inline;
+		margin: 0 auto;
 	}
+	
+	#bodytext {
+		text-align: left; padding-left: 0px;
+	}
+
+	#Plogo1 {padding-left: 0px; width: 330px; margin: 0 auto; transform: translateX(13.5%) translateY(-30%);}
+	#Plogo2 {padding-left: 0px; width: 360px; margin: 0 auto; transform: translateX(12%) translateY(-30%);}
+	#Plogo3 {padding-left: 0px; width: 360px; margin: 0 auto; transform: translateX(12%) translateY(-30%);}
+	#Plogo4 {padding-left: 0px; width: 380px; margin: 0 auto; transform: translateX(10%) translateY(-14%);}
+	#Plogo5 {padding-left: 0px; width: 380px; margin: 0 auto; transform: translateX(11%) translateY(-14%);}
+	#Plogo6 {padding-left: 0px; width: 300px; margin: 0 auto; transform: translateX(18%) translateY(-30%);}
 
 
 	#block-video{
@@ -1186,11 +1214,27 @@ border-radius: 50%;
 	.media-left {
 		display: none;
 	}
-	#body1 {
-		padding-left: 0;
-		display: flexbox;
-		transform: translateX(-6%);
+	#body1 {padding-left: 0;display: flexbox;transform: translateX(-4%);}
+	#body2 {padding-left: 0;display: flexbox;transform: translateX(-4%);}
+	#body3 {padding-left: 0;display: flexbox;transform: translateX(-3%);}
+	#body4 {padding-left: 0;display: flexbox;transform: translateX(-3%);}
+	#body5 {padding-left: 0;display: flexbox;transform: translateX(-5%);}
+	#body6 {padding-left: 0;display: flexbox;transform: translateX(0%);}
+	#subT {
+		display: inline;
+		margin: 0 auto;
 	}
+	
+	#bodytext {
+		text-align: left; padding-left: 0px;
+	}
+
+	#Plogo1 {padding-left: 0px; width: 330px; margin: 0 auto; transform: translateX(13.5%) translateY(-30%);}
+	#Plogo2 {padding-left: 0px; width: 360px; margin: 0 auto; transform: translateX(12%) translateY(-30%);}
+	#Plogo3 {padding-left: 0px; width: 360px; margin: 0 auto; transform: translateX(12%) translateY(-30%);}
+	#Plogo4 {padding-left: 0px; width: 380px; margin: 0 auto; transform: translateX(10%) translateY(-14%);}
+	#Plogo5 {padding-left: 0px; width: 380px; margin: 0 auto; transform: translateX(11%) translateY(-14%);}
+	#Plogo6 {padding-left: 0px; width: 300px; margin: 0 auto; transform: translateX(18%) translateY(-30%);}
 
 
 	/* .glyphicon{
