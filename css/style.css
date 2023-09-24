@@ -154,6 +154,12 @@ blockquote {
 	padding-top: 50%;
 	text-align: center;
 }
+#demo {
+	background-image: url('../images/P4-BGI.png');
+	background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: 100% 100%;
+}
 /* .banner:after {
 	position: absolute;
 	top: 0;
